@@ -1,5 +1,6 @@
 #logo {
     text-align: center;
+    
 }
 
 body{
@@ -7,7 +8,7 @@ body{
     background-image: url(images_etc/clouds.jpg);
 }
 #kysymysalue {
-    border: 1px solid #000;
+    border: 10px dotted rgb(18, 54, 91);
     border-radius: 25px;
     text-align: center;
     padding: 15px;
